@@ -14,3 +14,6 @@ c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\bin\D
 C:\Users\dorin\Documents\GitHub\GitHubTest\CatalogEu2\CatalogEu2\bin\Debug\CatalogEu2.exe.config
 C:\Users\dorin\Documents\GitHub\GitHubTest\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.exe
 C:\Users\dorin\Documents\GitHub\GitHubTest\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.pdb
+C:\Users\Admin\Documents\GitHub\GitHubTest\CatalogEu2\CatalogEu2\bin\Debug\CatalogEu2.exe.config
+C:\Users\Admin\Documents\GitHub\GitHubTest\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.exe
+C:\Users\Admin\Documents\GitHub\GitHubTest\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.pdb

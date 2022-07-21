@@ -26,6 +26,7 @@ namespace CatalogEu2
             a.ShowDialog();
             this.Visible = true;
             Console.WriteLine("sal");
+            Console.WriteLine(|"ȚmihaelaȚ");
             return;
         }
     }
