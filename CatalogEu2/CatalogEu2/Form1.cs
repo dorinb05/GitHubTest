@@ -25,6 +25,7 @@ namespace CatalogEu2
             this.Visible = false;
             a.ShowDialog();
             this.Visible = true;
+            Console.WriteLine("sal");
             return;
         }
     }
