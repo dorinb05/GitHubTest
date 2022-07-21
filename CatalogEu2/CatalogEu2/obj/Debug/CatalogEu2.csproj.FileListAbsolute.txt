@@ -1,0 +1,13 @@
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\bin\Debug\CatalogEu2.exe.config
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\bin\Debug\CatalogEu2.exe
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\bin\Debug\CatalogEu2.pdb
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.csprojResolveAssemblyReference.cache
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.Form1.resources
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.Profesor.AnSemestru.resources
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.Profesor.AutentificareProfesor.resources
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.Properties.Resources.resources
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.csproj.GenerateResource.Cache
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.exe
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\obj\Debug\CatalogEu2.pdb
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\bin\Debug\Database1.mdf
+c:\users\dorin\documents\visual studio 2013\Projects\CatalogEu2\CatalogEu2\bin\Debug\Database1_log.ldf
