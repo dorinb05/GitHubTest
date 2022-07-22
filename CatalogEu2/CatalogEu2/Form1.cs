@@ -27,6 +27,8 @@ namespace CatalogEu2
             this.Visible = true;
             Console.WriteLine("sal");
             Console.WriteLine(|"ȚmihaelaȚ");
+            //commid din cmd
+             Console.WriteLine("Cocorica");
             return;
         }
     }
